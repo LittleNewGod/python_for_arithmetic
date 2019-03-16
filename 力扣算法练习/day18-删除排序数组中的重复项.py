@@ -40,24 +40,51 @@
 #     print(nums[i]);
 # }
 
+#解法-：暴力法，直接循环列表，操作列表
+# class Solution(object):
+#     def removeDuplicates(self, nums):
+#         """
+#         :type nums: List[int]
+#         :rtype: int
+#         """
+#         i =1
+#         j =len(nums)
+#         if j <= 1:
+#             return j
+#         while i<j :
+#             if nums[i]==nums[i-1]:
+#                 #因为不能使用额外的空间，所以想到的是直接操作列表，pop或remove,亲测使用pop的效率更高
+#                 #nums.pop(i)
+#                 nums.remove(nums[i])
+#                 j -= 1
+#             else:
+#                 i+=1
+#
+#         return len(nums)
+#
+# nums=[2,2,2,3,4]
+# s = Solution()
+# print(s.removeDuplicates(nums))
+
+
+#解法二：此方法其实有点不符合原题，虽然返回的不重复整数个数，但没有删除列表重复数字，
+#但如果也是一种思路，在没有改变列表长度的情况下返回列表不重复数字个数
 class Solution(object):
     def removeDuplicates(self, nums):
         """
         :type nums: List[int]
         :rtype: int
         """
-        i =1
-        j =len(nums)
-        while i<j :
-            if nums[i]==nums[i-1]:
-                #因为不能使用额外的空间，所以想到的是直接操作列表，pop或remove,亲测使用pop的效率更高
-                #nums.pop(i)
-                nums.remove(nums[i])
-                j -= 1
-            else:
-                i+=1
+        mylen = len(nums)
+        if mylen <= 1:
+            return mylen
+        p = 0
+        for tem in nums:
+            if nums[p] != tem:
+                nums[p + 1] = tem
+                p += 1
+        return p+1
 
-        return len(nums)
 
 nums=[2,2,2,3,4]
 s = Solution()
