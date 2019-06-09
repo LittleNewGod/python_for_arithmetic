@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2019/3/25 10:54
 # @Author  : Xin
-# @File    : day-25组合总和2.py
+# @File    : day25-组合总和2.py
 # @Software: PyCharm
 
 # 给定一个数组 candidates 和一个目标数 target ，找出 candidates 中所有可以使数字和为 target 的组合。
