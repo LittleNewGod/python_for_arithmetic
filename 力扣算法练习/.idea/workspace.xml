@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e6c139b-05e1-4b6c-a032-f03c781720e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6e6c139b-05e1-4b6c-a032-f03c781720e1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +19,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day102-二叉树的最小深度.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="448">
@@ -30,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day85-二叉树的最大深度.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day103-二叉树的最近公共祖先.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="23" selection-start-line="23" selection-end-line="36" selection-end-column="97" />
+            <state relative-caret-position="448">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
             </state>
           </provider>
         </entry>
@@ -63,6 +61,7 @@
         <option value="$PROJECT_DIR$/day100-二叉搜索树中第K小的元素.py" />
         <option value="$PROJECT_DIR$/day101-最大矩形.py" />
         <option value="$PROJECT_DIR$/day102-二叉树的最小深度.py" />
+        <option value="$PROJECT_DIR$/day103-二叉树的最近公共祖先.py" />
       </list>
     </option>
   </component>
@@ -113,6 +112,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\github\python_for_arithmetic\力扣算法练习" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -262,12 +266,12 @@
       <workItem from="1560255688546" duration="2131000" />
       <workItem from="1560344283756" duration="1535000" />
       <workItem from="1560432690738" duration="1419000" />
-      <workItem from="1560571306389" duration="920000" />
+      <workItem from="1560571306389" duration="1365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11595000" />
+    <option name="totallyTimeSpent" value="12040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -388,6 +392,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
           <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day103-二叉树的最近公共祖先.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
     </entry>
