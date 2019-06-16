@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e6c139b-05e1-4b6c-a032-f03c781720e1" name="Default Changelist" comment="" />
+    <list default="true" id="6e6c139b-05e1-4b6c-a032-f03c781720e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +15,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day101-最大矩形.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
+            <state relative-caret-position="399">
               <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
             </state>
           </provider>
@@ -22,17 +24,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day102-二叉树的最小深度.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
+            <state relative-caret-position="969">
               <caret line="51" selection-start-line="51" selection-end-line="51" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day103-二叉树的最近公共祖先.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="448">
               <caret line="59" selection-start-line="59" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day104-除自身以外数组的乘积.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
@@ -62,6 +73,7 @@
         <option value="$PROJECT_DIR$/day101-最大矩形.py" />
         <option value="$PROJECT_DIR$/day102-二叉树的最小深度.py" />
         <option value="$PROJECT_DIR$/day103-二叉树的最近公共祖先.py" />
+        <option value="$PROJECT_DIR$/day104-除自身以外数组的乘积.py" />
       </list>
     </option>
   </component>
@@ -75,7 +87,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="420" />
     <option name="y" value="24" />
     <option name="width" value="1437" />
@@ -89,6 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,7 +113,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.day101-最大矩形">
+  <component name="RunManager" selected="Python.day104-除自身以外数组的乘积">
     <configuration name="day101-最大矩形" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="力扣算法练习" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day92-打家劫舍" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="day104-除自身以外数组的乘积" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="力扣算法练习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,7 +178,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day92-打家劫舍.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day104-除自身以外数组的乘积.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,11 +255,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.day104-除自身以外数组的乘积" />
         <item itemvalue="Python.day101-最大矩形" />
         <item itemvalue="Python.day99-汇总区间" />
         <item itemvalue="Python.day98-基本计算器2" />
         <item itemvalue="Python.day97-最大正方形" />
-        <item itemvalue="Python.day92-打家劫舍" />
       </list>
     </recent_temporary>
   </component>
@@ -266,24 +278,24 @@
       <workItem from="1560255688546" duration="2131000" />
       <workItem from="1560344283756" duration="1535000" />
       <workItem from="1560432690738" duration="1419000" />
-      <workItem from="1560571306389" duration="1365000" />
+      <workItem from="1560571306389" duration="1478000" />
+      <workItem from="1560685995267" duration="1346000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12040000" />
+    <option name="totallyTimeSpent" value="13499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2700081" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27405012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3283859" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.055658627" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.46567717" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4489796" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -321,6 +333,11 @@
           <line>31</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day104-除自身以外数组的乘积.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -329,6 +346,7 @@
     <SUITE FILE_PATH="coverage/$day101_.coverage" NAME="day101-最大矩形 Coverage Results" MODIFIED="1560433360105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$day92_.coverage" NAME="day92-打家劫舍 Coverage Results" MODIFIED="1560037466161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$day97_.coverage" NAME="day97-最大正方形 Coverage Results" MODIFIED="1560042491615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$day104_.coverage" NAME="day104-除自身以外数组的乘积 Coverage Results" MODIFIED="1560687546335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$day98_2.coverage" NAME="day98-基本计算器2 Coverage Results" MODIFIED="1560172499749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
@@ -374,13 +392,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day101-最大矩形.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day85-二叉树的最大深度.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -388,9 +399,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/day101-最大矩形.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day102-二叉树的最小深度.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
+        <state relative-caret-position="969">
           <caret line="51" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
@@ -399,6 +417,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
           <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day104-除自身以外数组的乘积.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
